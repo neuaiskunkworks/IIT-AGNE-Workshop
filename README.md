@@ -27,11 +27,11 @@ Must I add that it has upto 720 open source packages, most of which are not in t
 
 ##### Windows
 ###### Installing Anaconda
-- Visit <a href="https://www.anaconda.com/download">Anaconda Website</a> and download the 64bit versioin if you have 64 bit machine or 32bit if you have a 32 bit machine. Download the latest Python 3. version of Anaconda. This will download the .exe** file on your computer.
+Visit <a href="https://www.anaconda.com/download">Anaconda Website</a> and download the 64bit versioin if you have 64 bit machine or 32bit if you have a 32 bit machine. Download the latest Python 3. version of Anaconda. This will download the .exe** file on your computer.
 
 ##### MAC
 ###### Installing Anaconda
-1. Visit <a href="https://www.anaconda.com/download">Anaconda Website</a> and download the 64bit versioin if you have 64 bit machine or 32bit if you have a 32 bit machine. Download the latest Python 3. version of Anaconda. This will download the .sh** file on your computer.
+Visit <a href="https://www.anaconda.com/download">Anaconda Website</a> and download the 64bit versioin if you have 64 bit machine or 32bit if you have a 32 bit machine. Download the latest Python 3. version of Anaconda. This will download the .sh** file on your computer.
 
 ### Installing libraries and packages
 ##### What is Conda and pip?
