@@ -64,3 +64,7 @@ h2o.demo("glm")
 Kindly download the file from the below link for the workshop if required.
 
 https://drive.google.com/file/d/1q1fiYCDuEEo-iWiciOH59ppntYIb8OF2/view?usp=sharing
+
+
+## Want to join us Skunkworks? and contribute to the Skunkworks Projects?
+Kindly have a look <a href="https://github.com/skunkworksneu/How-to-be-a-Skunk">here</a>
